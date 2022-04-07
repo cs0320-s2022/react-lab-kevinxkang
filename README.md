@@ -1,4 +1,4 @@
 # ReactLabStencil
 Stencil for React Lab
 
-run: npx create-react-app reactlabapp --template typescript
+run: npx create-react-app lab-app --template typescript
